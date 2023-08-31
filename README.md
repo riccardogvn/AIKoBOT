@@ -1,11 +1,8 @@
-# Robby-chatbot 🤖
+# AIKoBOT 🤖
+Original code inherited from [/yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yvann_hub?style=social)](https://twitter.com/yvann_hub)
+### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF, TXT, JSON data and YTB videos intuitively. 🚀
 
-
-### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF, TXT, JSON data and YTB videos in a more intuitive manner. 🚀
-![Robby](robby-pic.png)
-Robby the Robot from [Forbidden Planet](https://youtu.be/bflfQN_YsTM)
 
 #### For better understanding, see my medium article 🖖 : [Build a chat-bot over your CSV data](https://medium.com/@yvann-hub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd)
 
