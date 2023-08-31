@@ -1,15 +1,14 @@
 # AIKoBOT 🤖
-Original code inherited from [/yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot)
-
-## Changes
-- updated feature to support the ingestion of json data
-
 ## An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF, TXT, JSON data and YTB videos intuitively. 🚀
 ![AIKoBOT](imgs/5b5e97aa-948f-4e4f-86c9-90268743f0a9.jpg)
 AIKoBOT generated with [BlueWillow.AI](https://www.bluewillow.ai/)
+### Credits
+Original code inherited from [/yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot)
 
-### Quick Start 🚀
-
+### Changes
+- updated feature to support the ingestion of json data
+  
+## Quick Start Online 🚀
 [![AIKoBOT](https://img.shields.io/static/v1?label=AIKoBOT&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
 
 
