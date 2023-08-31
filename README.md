@@ -7,7 +7,7 @@ AIKoBOT generated with [BlueWillow.AI](https://www.bluewillow.ai/)
 
 ### Quick Start 🚀
 
-[![Robby-Chatbot](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
+[![AIKoBOT](https://img.shields.io/static/v1?label=AIKoBOT&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
 
 
 ## Running Locally 💻
@@ -26,9 +26,9 @@ Follow these steps to set up and run the service locally :
 python -m venv .venv
 .\.venv\Scripts\activate
 ```
-4.Install the required dependencies in the virtual environment :
+4. Install the required dependencies in the virtual environment :
 `pip install -r requirements.txt`
-5.Launch the chat service locally :
+5. Launch the chat service locally :
 `streamlit run src/Home.py`
 
 #### That's it! The service is now up and running locally. 🤗
