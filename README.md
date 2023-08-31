@@ -1,12 +1,11 @@
 # AIKoBOT 🤖
 Original code inherited from [/yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot)
 
-### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF, TXT, JSON data and YTB videos intuitively. 🚀
+## An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF, TXT, JSON data and YTB videos intuitively. 🚀
+![AIKoBOT](imgs/5b5e97aa-948f-4e4f-86c9-90268743f0a9.jpg)
+AIKoBOT generated with [BlueWillow.AI](https://www.bluewillow.ai/)
 
-
-#### For better understanding, see my medium article 🖖 : [Build a chat-bot over your CSV data](https://medium.com/@yvann-hub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd)
-
-## Quick Start 🚀
+### Quick Start 🚀
 
 [![Robby-Chatbot](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
 
@@ -49,4 +48,4 @@ Launch the chat service locally :
 ## Contributing 🙌
 If you want to contribute to this project, please open an issue, submit a pull request or contact me at barbot.yvann@gmail.com (:
 
-
+#### For better understanding, see [/yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) medium article 🖖 : [Build a chat-bot over your CSV data](https://medium.com/@yvann-hub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd)
