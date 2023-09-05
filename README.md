@@ -9,7 +9,7 @@ Original code inherited from [/yvann-hub/Robby-chatbot](https://github.com/yvann
 - updated feature to support the ingestion of json data
   
 ## Quick Start Online 🚀
-[![AIKoBOT](https://img.shields.io/static/v1?label=AIKoBOT&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://aikobot.streamlit.app/)]
+[![AIKoBOT](https://img.shields.io/static/v1?label=AIKoBOT&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://aikobot.streamlit.app/)
 
 
 ## Running Locally 💻
